@@ -1,11 +1,11 @@
-### Hi there 👋
+# Talles Alves
 
 <a href="https://www.instagram.com/t.alves02/" target="blank">
-  <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="48px"/>
+  <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="70px"/>
 </a>
 
 <a href="https://www.linkedin.com/in/t-alvesdm/" target="blank">
-  <img src="https://i.imgur.com/PXyIkWx.png" alt="drawing" width="48px"/>
+  <img src="https://i.imgur.com/PXyIkWx.png" alt="drawing" width="72px"/>
 </a>
 
 <!--
