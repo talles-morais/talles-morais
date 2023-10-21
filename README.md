@@ -1,11 +1,17 @@
 # Talles Alves
 
-### 🙂 Olá, bem vindo ao meu github
-Sou estudante de engenharia de computação pela UNIFEI - Universidade Federal de Itajubá.
+## 🙂 Hey there, welcome to my GitHub
+My name is Talles, I'm 21 years old. I'm majoring in Computing Engineering at UNIFEI - Universidade Federal de Itajubá.
 
-## 📫 Conecte-se comigo
+## 📖 I'm currently learning...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+## 📫 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/t.alves02/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/t-alvesdm/)
+
 
 
 <!--
