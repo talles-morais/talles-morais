@@ -1,13 +1,13 @@
 # Talles Alves
 
-<a href="https://www.instagram.com/t.alves02/" target="blank">
-  <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="70px"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/t-alvesdm/" target="blank">
-  <img src="https://i.imgur.com/PXyIkWx.png" alt="drawing" width="72px"/>
-</a>
+## Olá, bem vindo ao meu github 🙂
+Sou estudante de engenharia de computação pela UNIFEI - Universidade Federal de Itajubá.
 
+## Conecte-se comigo
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/t.alves02/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/t-alvesdm/)
 <!--
 **Tsplay25/Tsplay25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
