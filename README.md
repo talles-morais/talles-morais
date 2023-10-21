@@ -3,10 +3,12 @@
 ## 🙂 Hey there, welcome to my GitHub
 My name is Talles, I'm 21 years old. I'm majoring in Computing Engineering at UNIFEI - Universidade Federal de Itajubá.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsplay25&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## 📖 I'm currently learning...
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="40"/>          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="40"/>          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/>          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
 
-## 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tsplay25&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
           
 ## 📫 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/t.alves02/)
