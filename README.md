@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/t.alves02/">
+<a href="https://www.instagram.com/t.alves02/" target="blank">
   <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="48px"/>
 </a>
 
-[![me](https://i.imgur.com/g3UBILP.png)](https://www.instagram.com/t.alves02/)
+<a href="https://www.linkedin.com/in/t-alvesdm/" target="blank">
+  <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="48px"/>
+</a>
 
 <!--
 **Tsplay25/Tsplay25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
