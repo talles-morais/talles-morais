@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.instagram.com/t.alves02/">
-  <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="20px"/>
+  <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="48px"/>
 </a>
 
 [![me](https://i.imgur.com/g3UBILP.png)](https://www.instagram.com/t.alves02/)
