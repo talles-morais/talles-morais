@@ -1,4 +1,4 @@
-# &nbsp; Talles Alves
+# Talles Alves
 
 ## 🙂 Hey there, welcome to my GitHub
 My name is Talles, I'm 21 years old. I'm majoring in Computing Engineering at UNIFEI - Universidade Federal de Itajubá.
