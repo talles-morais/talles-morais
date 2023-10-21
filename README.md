@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/t-alvesdm/" target="blank">
-  <img src="https://i.imgur.com/g3UBILP.png" alt="drawing" width="48px"/>
+  <img src="https://i.imgur.com/PXyIkWx.png" alt="drawing" width="48px"/>
 </a>
 
 <!--
