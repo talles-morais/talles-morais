@@ -1,7 +1,7 @@
 # Talles Alves
 
 ## 🙂 Hey there, welcome to my GitHub!
-My name is Talles, I'm 21 years old. I'm majoring in Computing Engineering at UNIFEI - Universidade Federal de Itajubá.
+My name is Talles, I'm 22 years old. Majoring in Computing Engineering at UNIFEI - Universidade Federal de Itajubá.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talles-morais&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
